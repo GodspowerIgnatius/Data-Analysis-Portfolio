@@ -9,9 +9,9 @@ This project provides a **comprehensive clinical and financial analysis** of hos
 * Built calculated measures (Average Bill, Length of Stay, Age, etc.) using **DAX**.
 * Designed KPIs and visualizations for billing, patient demographics, and medical conditions.
 * Created **3 dashboards**:
-  1. **Financial Insights** – Billing by insurance providers, hospitals, and admission type.
-  2. **Patient Demographics** – Gender, age groups, blood type, admission trends, and test results.
-  3. **Clinical Insights** – Medical conditions, test outcomes, length of stay, and medication distribution.
+  1. **Patient Demographics** – Gender, age groups, blood type, admission trends, and test results.
+  2. **Clinical Insights** – Medical conditions, test outcomes, length of stay, and medication distribution.
+  3. **Financial Insights** – Billing by insurance providers, hospitals, and admission type.
 * Applied slicers (Gender, Age Group, Insurance Provider, Hospital, Medical Condition, Test Results) for interactivity and drill-down analysis.
 
 ### KPIs
