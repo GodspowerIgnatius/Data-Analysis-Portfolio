@@ -26,15 +26,14 @@ This project provides a **comprehensive clinical and financial analysis** of hos
 * **Medications:** Balanced distribution across Lipitor, Ibuprofen, Aspirin, Paracetamol
 
 ### Dashboards
-#### 📊 Financial Insights
+#### 📊 Patient Demographics
 
 ![Financial Insights Dashboard](Dashboard%201.png)
 
-#### 👥 Patient Demographics
-
+#### 👥 Clinical Insights
 ![Patient Demographics Dashboard](Dashboard%202.png)
 
-#### 🏥 Clinical Insights
+#### 🏥 Financial Insights
 
 ![Clinical Insights Dashboard](Dashboard%203.png)
 
