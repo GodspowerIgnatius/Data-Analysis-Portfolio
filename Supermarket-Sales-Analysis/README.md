@@ -19,3 +19,7 @@ Tools Used: Excel
 •	Branch comparison → Revenue is evenly split across Mandalay, Yangon, and Naypyitaw.
 •	Payment methods → Cash (35%) is most popular, followed by e-wallet (34%) and credit card (31%).
 •	Price buckets → Products in the mid-high price range ($50–79 & $80–100) generate the most revenue.
+
+### Recommendations
+•	Strengthen loyalty programs for members and run campaigns to convert normal customers into members
+•	Expand popular payment options and encourage digital payments for faster checkout.
