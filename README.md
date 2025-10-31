@@ -17,8 +17,8 @@ I work with **Excel, SQL, and Power BI** to explore data, uncover trends, and he
 **Recommendations:** Strengthen loyalty programs, expand digital payments, and focus marketing on mid-high price range products ($50–100).
 
 
-### 🍕 [Pizza Sales Analysis](./Pizza Sales & Performance)
-**Tools:** Microsoft Excel | Power Query  
+### 🍕 [Pizza Sales Analysis](./Pizza-Sales-&-Performance)
+**Tools:** Microsoft Excel | Power Query
 - Analyzed 48,000+ pizza sales transactions to identify trends, top products, and pricing opportunities.  
 - Designed an interactive Excel dashboard with slicers (Date, Category, Size, Price Range).  
 **Key Insights:**  
