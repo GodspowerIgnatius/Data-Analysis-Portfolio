@@ -39,7 +39,7 @@ I work with **Excel, SQL, and Power BI** to explore data, uncover trends, and he
 **Recommendations:** Improve stock management, focus on high-revenue regions (Hackensack, Dallas), and optimize promotions around top brands and price buckets.
 
 
-### 🏥 [Hospital Clinical & Financial Analysis](./Hospital-Clinical-and-Financial-Analysis)
+### 🏥 [Hospital Clinical & Financial Analysis](./Clinical%20&%20Financial%20Performance%20Analysis)
 **Tools:** Power BI | DAX  
 - Analyzed data from **55,000 patients** and **$1.4B+ in billings** to uncover demographic, clinical, and financial insights.  
 - Built a 3-page Power BI dashboard (Demographics, Clinical, Financial) with dynamic slicers for in-depth exploration.  
