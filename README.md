@@ -28,7 +28,7 @@ I work with **Excel, SQL, and Power BI** to explore data, uncover trends, and he
 **Recommendations:** Focus on large pizzas, maintain optimal pricing ($16–25), promote best-sellers, and rebrand slow movers.
 
 
-### 🧴 [Perfume E-Commerce Analysis](./Perfume-E-Commerce-Analysis)
+### 🧴 [Perfume E-Commerce Analysis](./Perfume%20Sales%20and%20Market%20Insights)
 **Tools:** Power BI | DAX | Power Query  
 - Analyzed 2,000 perfume listings (1,000 men’s + 1,000 women’s) from an e-commerce dataset to uncover sales patterns, pricing, and availability trends.  
 - Built a two-page Power BI dashboard with KPIs and filters by region, brand, and price range.  
