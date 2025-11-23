@@ -48,9 +48,11 @@ Using **Microsoft Excel**, the dataset was cleaned, standardized, and modeled to
 ---
 
 ## **Dashboard Previews**
+#### 📊 Geographic Insights and Retailer Performance
 
 ![Geographic Insights and Retailer Performance](Dashboard%201.png)
 
+#### 📊 Retailer and Channel Performance
 ![Retailer and Channel Performance](Dashboard%202.png)
 
 
