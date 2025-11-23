@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Godspower Ignatius
 
-I’m a Physiotherapy graduate and a passionate Data Analyst who loves transforming raw data into clear, actionable insights.  
+I am a passionate Data Analyst who loves transforming raw data into clear, actionable insights.  
 I work with **Excel, SQL, and Power BI** to explore data, uncover trends, and help drive smarter decisions.  
 
 
