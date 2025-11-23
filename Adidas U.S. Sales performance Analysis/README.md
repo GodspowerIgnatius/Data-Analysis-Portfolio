@@ -57,9 +57,9 @@ Using **Microsoft Excel**, the dataset was cleaned, standardized, and modeled to
 ---
 ## **Insights & Recommendations**
 
-**Invest in West & Northeast Regions:** Highest revenue and margins; allocate more marketing, inventory, and retailer support here.
-**Strengthen Top Retailer Partnerships:** West Gear, Foot Locker, and Sports Direct drive the most profit; expand collaborations and exclusive releases.
-**Scale Men’s Street Footwear:** Top performer in revenue, profit, and units—boost production, marketing, and shelf space.
-**Expand Online Sales Strategy:** High-margin channel; improve digital marketing, UX, and offer online-only product drops.
-**Stabilize Low-Month Performance:** Use targeted promos and product launches in weak months (Feb, Apr, Oct) to smooth revenue dips.
+1. **Invest in West & Northeast Regions:** Highest revenue and margins; allocate more marketing, inventory, and retailer support here.
+2. **Strengthen Top Retailer Partnerships:** West Gear, Foot Locker, and Sports Direct drive the most profit; expand collaborations and exclusive releases.
+3. **Scale Men’s Street Footwear:** Top performer in revenue, profit, and units—boost production, marketing, and shelf space.
+4. **Expand Online Sales Strategy:** High-margin channel; improve digital marketing, UX, and offer online-only product drops.
+5. **Stabilize Low-Month Performance:** Use targeted promos and product launches in weak months (Feb, Apr, Oct) to smooth revenue dips.
 
