@@ -40,20 +40,26 @@ Using **Microsoft Excel**, the dataset was cleaned, standardized, and modeled to
 2. **Total Units Sold:** 17,888,211
 3. **Total Revenue:** $899,902,125
 4. **Operating Profit:** $332,134,761
-5. **Average Selling Price:** $45.22
-6. **Average Units per Transaction:** 1,854
-7. **YoY Revenue Growth:** 294.2%
+5. **Average Opeating Margin** 42.3%
+6. **Average Selling Price:** $45.22
+7. **Average Units per Transaction:** 1,854
+8. **YoY Revenue Growth:** 294.2%
 
 ---
 
 ## **Dashboard Previews**
 
+![Geographic Insights and Retailer Performance](Dashboard%201.png)
+
+![Retailer and Channel Performance](Dashboard%202.png)
 
 
+---
 ## **Insights & Recommendations**
 
-1. The **West and Northeast regions** lead in revenue, profit, and margins. These regions offer significant growth potential.
-2. **West Gear, Foot Locker, and Sports Direct** are the strongest-performing retailers, while others underperform relative to their size.
-3. **Men’s Street Footwear** is the highest driver of total revenue and profit, suggesting strong demand and expansion potential.
-4. **Online sales** show rising contribution and healthy margins, indicating opportunities to strengthen Adidas’ digital strategy.
-5. Seasonality impacts monthly performance; targeted product drops and promotions can smooth out low-volume months.
+**Invest in West & Northeast Regions:** Highest revenue and margins; allocate more marketing, inventory, and retailer support here.
+**Strengthen Top Retailer Partnerships:** West Gear, Foot Locker, and Sports Direct drive the most profit; expand collaborations and exclusive releases.
+**Scale Men’s Street Footwear:** Top performer in revenue, profit, and units—boost production, marketing, and shelf space.
+**Expand Online Sales Strategy:** High-margin channel; improve digital marketing, UX, and offer online-only product drops.
+**Stabilize Low-Month Performance:** Use targeted promos and product launches in weak months (Feb, Apr, Oct) to smooth revenue dips.
+
